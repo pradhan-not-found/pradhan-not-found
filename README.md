@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 I’m Souradeep — an aspiring Software Engineer passionate about building impactful projects.<br>Coding | Creativity | Innovation — that’s what drives me every day.<br>Exploring DSA, Web Dev, and AI while building real-world projects.<br>Founder of Broke to Billionaire (BTB) | Content Creator | Tech Enthusiast.<br>“Turning ideas into projects and projects into impact.”<br>Hackathon explorer | Lifelong learner | Video Editor.<br>Passionate about problem-solving, coding challenges, and open source.<br>Outside coding, I create content on YouTube : Pradhan_da & Broke to Billionaire.
 
@@ -14,7 +13,7 @@ I’m Souradeep — an aspiring Software Engineer passionate about building impa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pradhan-not-found&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=pradhan-not-found&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
