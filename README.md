@@ -39,7 +39,6 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
   <img src="icons/mongodb.png" alt="MongoDB" width="45" style="margin-right: 10px;" />
   <img src="icons/postgresql.png" alt="PostgreSQL" width="45" style="margin-right: 10px;" />
   <img src="icons/supabase.jpeg" alt="Supabase" width="45" style="margin-right: 10px;" />
-  <img src="icons/solidity.png" alt="Solidity" width="45" style="margin-right: 10px;" />
   <img src="icons/docker.jpeg" alt="Docker" width="45" style="margin-right: 10px;" />
   <img src="icons/figma.png" alt="Figma" width="45" style="margin-right: 10px;" />
   <img src="icons/vscode.jpeg" alt="VS Code" width="45" style="margin-right: 10px;" />
@@ -66,8 +65,8 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradhan-not-found/pradhan-not-found/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradhan-not-found/pradhan-not-found/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pradhan-not-found/pradhan-not-found/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
