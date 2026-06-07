@@ -8,11 +8,13 @@
 
 I'm a full-stack developer who enjoys turning complex problems into simple, elegant solutions. I focus on building scalable, performant web applications with clean architecture, thoughtful design, and real-world impact. From idea to production, I care about writing code that's maintainable, meaningful, and built to last.
 
+### My Contributions as
+
 ### Contact Me
 
 <p align="left">
   <a href="https://souradeep.me" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain--v1.png" width="40" height="40" alt="website logo" style="margin-right: 8px;" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="40" height="40" alt="website logo" style="background-color: #14181f; border-radius: 8px; padding: 5px; margin-right: 8px;" />
   </a>
   <a href="https://linkedin.com/in/souradeep-pradhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" style="margin-right: 8px;" />
