@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Header" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Souradeep Pradhan</h1>
 <h3 align="center">Aspiring Software Engineer | UI/UX Designer | Web3 Enthusiast</h3>
 
