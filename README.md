@@ -2,7 +2,7 @@
   <img src="header.png" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Souradeep Pradhan</h1>
+<h1 align="center">Hi, I'm Souradeep Pradhan</h1>
 <h3 align="center">Aspiring Software Engineer | UI/UX Designer | Web3 Enthusiast</h3>
 
 <p align="center">
@@ -19,69 +19,39 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 I'm a B.Tech Computer Science student at **Adamas University** (Class of 2028)
-- 🏢 Founder of **The UI Company** - crafting premium digital experiences
-- 🌐 **Google Student Ambassador** - fostering developer communities on campus
-- 🏆 **4x Hackathon Winner**, including Top 20 Global Finalist at Smart India Hackathon 2025
-- 🌱 Currently diving deep into **AI**, **Blockchain**, and **Full Stack Development**
-- 💬 Ask me about **React, Next.js, Web3, and UI/UX Design**
-- 📫 How to reach me: **[souradeeppradhan7@gmail.com](mailto:souradeeppradhan7@gmail.com)**
+### About Me
+- I'm a B.Tech Computer Science student at **Adamas University** (Class of 2028)
+- Founder of **The UI Company** - crafting premium digital experiences
+- **Google Student Ambassador** - fostering developer communities on campus
+- **4x Hackathon Winner**, including Top 20 Global Finalist at Smart India Hackathon 2025
+- Currently diving deep into **AI**, **Blockchain**, and **Full Stack Development**
+- Ask me about **React, Next.js, Web3, and UI/UX Design**
+- How to reach me: **[souradeeppradhan7@gmail.com](mailto:souradeeppradhan7@gmail.com)**
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
-#### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<p align="center">
+  <img src="icons/html.png" alt="HTML5" width="45" style="margin: 8px;" />
+  <img src="icons/css.png" alt="CSS3" width="45" style="margin: 8px;" />
+  <img src="icons/js.png" alt="JavaScript" width="45" style="margin: 8px;" />
+  <img src="icons/typescript.png" alt="TypeScript" width="45" style="margin: 8px;" />
+  <img src="icons/react.png" alt="React" width="45" style="margin: 8px;" />
+  <img src="icons/nextjs.jpeg" alt="Next.js" width="45" style="margin: 8px;" />
+  <img src="icons/nodejs.png" alt="Node.js" width="45" style="margin: 8px;" />
+  <img src="icons/tailwindcss.jpeg" alt="Tailwind CSS" width="45" style="margin: 8px;" />
+  <img src="icons/mongodb.png" alt="MongoDB" width="45" style="margin: 8px;" />
+  <img src="icons/postgresql.png" alt="PostgreSQL" width="45" style="margin: 8px;" />
+  <img src="icons/supabase.jpeg" alt="Supabase" width="45" style="margin: 8px;" />
+  <img src="icons/solidity.png" alt="Solidity" width="45" style="margin: 8px;" />
+  <img src="icons/docker.jpeg" alt="Docker" width="45" style="margin: 8px;" />
+  <img src="icons/figma.png" alt="Figma" width="45" style="margin: 8px;" />
+  <img src="icons/vscode.jpeg" alt="VS Code" width="45" style="margin: 8px;" />
+  <img src="icons/cursor.webp" alt="Cursor" width="45" style="margin: 8px;" />
+  <img src="icons/github.png" alt="GitHub" width="45" style="margin: 8px;" />
+  <img src="icons/vercel.png" alt="Vercel" width="45" style="margin: 8px;" />
 </p>
-
-#### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-#### Web3 & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-</p>
-
-#### Design & Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobe%20xd&logoColor=FF61F6" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
-
-### 🚀 Featured Projects
-- **Bharat Pramaan**: Enterprise-grade blockchain application eliminating opacity in disaster relief networks.
-- **SurplusGrid**: High-fidelity decentralized energy trading marketplace on Ethereum.
-- **Gullak**: Local-first AI expense tracker with transaction categorization.
-- **2ndhand.in**: Verified student-first campus marketplace for Adamas University.
-
----
-
-### 🏆 Achievements
-- 🥇 **Winner** - Clash of Coders 2.0 & Coding Premier League 26', Adamas University
-- 🥈 **Second Position** - IMI Hackathon
-- 🌟 **Top 20 Finalist** - Smart India Hackathon 2025
 
 ---
 
