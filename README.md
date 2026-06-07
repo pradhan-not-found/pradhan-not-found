@@ -5,17 +5,23 @@
 <h1 align="center">Hi, I'm Souradeep Pradhan</h1>
 <h3 align="center">Aspiring Software Engineer | UI/UX Designer | Web3 Enthusiast</h3>
 
-<p align="center">
-  <a href="https://souradeep.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-souradeep.me-blue?style=for-the-badge&logo=Web" alt="Portfolio"/>
-  </a>
+<div align="center">
   <a href="https://linkedin.com/in/souradeep-pradhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:souradeeppradhan7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/pradhan-not-found" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
   </a>
-</p>
+  <a href="mailto:souradeeppradhan7@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:pradhan-not-found?theme=booru-koe&padding=4&offset=1&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
+</div>
 
 ---
 
