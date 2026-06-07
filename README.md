@@ -59,3 +59,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&show_icons=true&theme=radium" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=radium" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&layout=compact&theme=radium" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=radium" alt="GitHub Activity Graph" />
+</p>
