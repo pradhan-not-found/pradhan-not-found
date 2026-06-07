@@ -8,7 +8,15 @@
 
 I'm a full-stack developer who enjoys turning complex problems into simple, elegant solutions. I focus on building scalable, performant web applications with clean architecture, thoughtful design, and real-world impact. From idea to production, I care about writing code that's maintainable, meaningful, and built to last.
 
-### My Contributions as
+### My Contribution
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ### Contact Me
 
@@ -63,12 +71,3 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=radium" alt="GitHub Activity Graph" />
 </p>
 
-### Contribution Snake
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
