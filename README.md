@@ -17,11 +17,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:pradhan-not-found?theme=booru-koe&padding=4&offset=1&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views" />
-</div>
 
 ---
 
