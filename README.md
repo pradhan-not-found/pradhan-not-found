@@ -11,14 +11,17 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 ### Contact Me
 
 <p align="left">
+  <a href="https://souradeep.me" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain--v1.png" width="40" height="40" alt="website logo" style="margin-right: 8px;" />
+  </a>
   <a href="https://linkedin.com/in/souradeep-pradhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" style="margin-right: 8px;" />
   </a>
   <a href="https://github.com/pradhan-not-found" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+    <img src="icons/github.png" width="40" height="40" alt="github logo" style="margin-right: 8px;" />
   </a>
   <a href="mailto:souradeeppradhan7@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" style="margin-right: 8px;" />
   </a>
 </p>
 
@@ -47,10 +50,24 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 ---
 
+### GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=radium" alt="GitHub Streak" />
 </p>
 
+### Contribution Graph
+
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=radium" alt="GitHub Activity Graph" />
+</p>
+
+### Contribution Snake
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pradhan-not-found/pradhan-not-found/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pradhan-not-found/pradhan-not-found/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pradhan-not-found/pradhan-not-found/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
