@@ -32,9 +32,6 @@
 
 I'm a full-stack developer who enjoys turning complex problems into simple, elegant solutions. I focus on building scalable, performant web applications with clean architecture, thoughtful design, and real-world impact. From idea to production, I care about writing code that's maintainable, meaningful, and built to last.
 
-Currently, I'm pursuing my B.Tech in Computer Science at Adamas University and exploring the depths of AI and Blockchain. As a 4x Hackathon Winner (including a Top 20 Global Finalist at SIH 2025), I thrive on building tools that solve real problems. 
-
-**How to reach me:** [souradeeppradhan7@gmail.com](mailto:souradeeppradhan7@gmail.com)
 
 ---
 
