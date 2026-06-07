@@ -20,13 +20,15 @@
 ---
 
 ### About Me
-- I'm a B.Tech Computer Science student at **Adamas University** (Class of 2028)
-- Founder of **The UI Company** - crafting premium digital experiences
-- **Google Student Ambassador** - fostering developer communities on campus
-- **4x Hackathon Winner**, including Top 20 Global Finalist at Smart India Hackathon 2025
-- Currently diving deep into **AI**, **Blockchain**, and **Full Stack Development**
-- Ask me about **React, Next.js, Web3, and UI/UX Design**
-- How to reach me: **[souradeeppradhan7@gmail.com](mailto:souradeeppradhan7@gmail.com)**
+
+**Hello, I am Souradeep Pradhan**
+*Full-Stack Web Developer | Founder of The UI Company | Google Student Ambassador*
+
+I'm a full-stack developer who enjoys turning complex problems into simple, elegant solutions. I focus on building scalable, performant web applications with clean architecture, thoughtful design, and real-world impact. From idea to production, I care about writing code that's maintainable, meaningful, and built to last.
+
+Currently, I'm pursuing my B.Tech in Computer Science at Adamas University and exploring the depths of AI and Blockchain. As a 4x Hackathon Winner (including a Top 20 Global Finalist at SIH 2025), I thrive on building tools that solve real problems. 
+
+**How to reach me:** [souradeeppradhan7@gmail.com](mailto:souradeeppradhan7@gmail.com)
 
 ---
 
@@ -56,12 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&show_icons=true&theme=radium" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=radium" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&layout=compact&theme=radium" alt="Top Languages" />
 </p>
 
 <p align="center">
