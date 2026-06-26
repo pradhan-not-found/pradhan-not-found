@@ -62,12 +62,12 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&theme=radical&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=radium&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=radium&hide_border=false" alt="GitHub Activity Graph" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=tokyonight&hide_border=false" alt="GitHub Activity Graph" width="48%" />
 </p>
 
