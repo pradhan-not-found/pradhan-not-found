@@ -77,21 +77,9 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 ### Let's Connect
 
-<p align="left">
-  <a href="https://souradeep.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=vercel&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://linkedin.com/in/souradeep-pradhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0A66C2" />
-  </a>&nbsp;
-  <a href="https://github.com/pradhan-not-found" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:souradeeppradhan7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=vercel&logoColor=white)](https://souradeep.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/souradeep-pradhan)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/pradhan-not-found)&nbsp;
+[![Email](https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:souradeeppradhan7@gmail.com)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pradhan-not-found&style=flat-square&color=21262d&label=Profile+Views&base=1200" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=pradhan-not-found&style=flat-square&color=21262d&label=Profile+Views&base=1200&abbreviated=true)
