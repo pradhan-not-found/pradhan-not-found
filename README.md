@@ -67,13 +67,30 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&theme=tokyonight&show_icons=true&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&theme=tokyonight&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=tokyonight&hide_border=false" alt="GitHub Activity Graph" width="48%" />
-</p>
+<div align="center">
+
+<table border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" />
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://streak-stats.demolab.com/?user=pradhan-not-found&theme=tokyonight&hide_border=true" height="165" />
+</td>
+<td>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&radius=8&theme=tokyo-night&area=true&hide_border=true" height="165" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
