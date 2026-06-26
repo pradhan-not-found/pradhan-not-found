@@ -61,13 +61,13 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=radium" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&theme=radium&show_icons=true&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&theme=radium&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
-### Contribution Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=radium" alt="GitHub Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradhan-not-found&theme=radium&hide_border=false" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradhan-not-found&theme=radium&hide_border=false" alt="GitHub Activity Graph" width="48%" />
 </p>
 
