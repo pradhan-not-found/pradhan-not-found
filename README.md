@@ -6,9 +6,9 @@
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-21262d?style=for-the-badge&logoColor=white" alt="Full-Stack Developer" />
-  <img src="https://img.shields.io/badge/Founder%20%40%20The%20UI%20Company-21262d?style=for-the-badge&logoColor=white" alt="Founder of The UI Company" />
-  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-21262d?style=for-the-badge&logo=google&logoColor=white" alt="Google Student Ambassador" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-21262d?style=flat&logoColor=8b949e" />&nbsp;
+  <img src="https://img.shields.io/badge/Founder%20of%20The%20UI%20Company-21262d?style=flat&logoColor=8b949e" />&nbsp;
+  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-21262d?style=flat&logo=google&logoColor=8b949e" />
 </p>
 
 
