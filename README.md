@@ -63,11 +63,7 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
   <img src="icons/vercel.png" alt="Vercel" width="45" style="margin-right: 10px;" />
 </p>
 
----
-
 ### GitHub Stats
-
----
 
 <div align="center">
 
