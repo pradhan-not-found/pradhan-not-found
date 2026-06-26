@@ -24,22 +24,6 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
   </picture>
 </p>
 
-### Let's Connect
-
-<p align="left">
-  <a href="https://souradeep.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/souradeep-pradhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/pradhan-not-found" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:souradeeppradhan7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 ### Skills
 
@@ -90,3 +74,13 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 <br/>
 
+---
+
+<div align="center">
+
+<a href="https://souradeep.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=Firefox-Browser&logoColor=FF7139" /></a>&nbsp;
+<a href="https://linkedin.com/in/souradeep-pradhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>&nbsp;
+<a href="https://github.com/pradhan-not-found" target="_blank"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<a href="mailto:souradeeppradhan7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+
+</div>
