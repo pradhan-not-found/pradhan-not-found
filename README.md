@@ -8,7 +8,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-21262d?style=flat&logoColor=8b949e" />&nbsp;
   <img src="https://img.shields.io/badge/Founder%20of%20The%20UI%20Company-21262d?style=flat&logoColor=8b949e" />&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-21262d?style=flat&logo=google&logoColor=8b949e" />
+  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-21262d?style=flat&logo=google&logoColor=8b949e" />&nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-21262d?style=flat&logoColor=8b949e" />&nbsp;
+  <img src="https://img.shields.io/badge/UI%2FUX-21262d?style=flat&logoColor=8b949e" />&nbsp;
+  <img src="https://img.shields.io/badge/Problem%20Solver-21262d?style=flat&logoColor=8b949e" />
 </p>
 
 
@@ -74,13 +77,31 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 <br/>
 
----
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:24283b&height=2&section=header" />
+
 
 <div align="center">
 
-<a href="https://souradeep.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=Firefox-Browser&logoColor=FF7139" /></a>&nbsp;
-<a href="https://linkedin.com/in/souradeep-pradhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0077B5" /></a>&nbsp;
-<a href="https://github.com/pradhan-not-found" target="_blank"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
-<a href="mailto:souradeeppradhan7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=D14836" /></a>
+<sub>R &nbsp;·&nbsp; E &nbsp;·&nbsp; A &nbsp;·&nbsp; C &nbsp;·&nbsp; H &nbsp;&nbsp; O &nbsp;·&nbsp; U &nbsp;·&nbsp; T</sub>
+
+<br/><br/>
+
+<a href="https://souradeep.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/souradeep-pradhan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>&nbsp;
+<a href="https://github.com/pradhan-not-found" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:souradeeppradhan7@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pradhan-not-found&style=flat-square&color=21262d&label=PROFILE+VIEWS" />
 
 </div>
