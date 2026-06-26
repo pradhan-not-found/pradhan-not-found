@@ -4,7 +4,13 @@
 
 ## Hello, I am Souradeep Pradhan
 
-**Full-Stack Web Developer | Founder of The UI Company | Google Student Ambassador**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-21262d?style=for-the-badge&logoColor=white" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/Founder%20%40%20The%20UI%20Company-21262d?style=for-the-badge&logoColor=white" alt="Founder of The UI Company" />
+  <img src="https://img.shields.io/badge/Google%20Student%20Ambassador-21262d?style=for-the-badge&logo=google&logoColor=white" alt="Google Student Ambassador" />
+</p>
+
 
 I'm a full-stack developer who enjoys turning complex problems into simple, elegant solutions. I focus on building scalable, performant web applications with clean architecture, thoughtful design, and real-world impact. From idea to production, I care about writing code that's maintainable, meaningful, and built to last.
 
