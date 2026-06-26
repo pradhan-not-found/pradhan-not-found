@@ -18,20 +18,20 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
   </picture>
 </p>
 
-### Contact Me
+### Let's Connect
 
 <p align="left">
   <a href="https://souradeep.me" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/domain.png" width="40" height="40" alt="website logo" style="background-color: #14181f; border-radius: 8px; padding: 5px; margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/souradeep-pradhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo" style="margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pradhan-not-found" target="_blank">
-    <img src="icons/github.png" width="40" height="40" alt="github logo" style="margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:souradeeppradhan7@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo" style="margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -62,8 +62,8 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&theme=radium&show_icons=true&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&theme=radium&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pradhan-not-found&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradhan-not-found&theme=radical&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
