@@ -23,7 +23,7 @@
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="58%" valign="top">
 
@@ -38,7 +38,7 @@ From idea to production — clean code, real-world impact.
 </td>
 <td width="42%" valign="top" align="right">
 
-<img src="https://img.shields.io/badge/ALWAYS_LEARNING-161b22?style=for-the-badge&logo=bookstack&logoColor=58a6ff" /><br/><br/>
+<img src="https://img.shields.io/badge/ALWAYS_LEARNING-161b22?style=for-the-badge&logo=bookstack&logoColor=58a6ff" />&nbsp;
 <img src="https://img.shields.io/badge/CRAFT_MATTERS-161b22?style=for-the-badge&logo=instatus&logoColor=f0c040" />
 
 </td>
