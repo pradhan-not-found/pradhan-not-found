@@ -77,9 +77,9 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 
 ### Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=Firefox-Browser&logoColor=FF7139)](https://souradeep.me)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=Linkedin&logoColor=0A66C2)](https://linkedin.com/in/souradeep-pradhan)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/pradhan-not-found)&nbsp;
-[![Email](https://img.shields.io/badge/Email-21262d?style=flat-square&logo=Gmail&logoColor=EA4335)](mailto:souradeeppradhan7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-21262d?style=flat-square&logo=web&logoColor=white)](https://souradeep.me)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/souradeep-pradhan)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=white)](https://github.com/pradhan-not-found)&nbsp;
+[![Email](https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:souradeeppradhan7@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pradhan-not-found&style=flat-square&color=21262d&label=Profile+Views&base=1200&abbreviated=true)
