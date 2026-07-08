@@ -35,13 +35,13 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
   <img src="icons/css.png" alt="CSS3" width="45" style="margin-right: 10px;" />
   <img src="icons/js.png" alt="JavaScript" width="45" style="margin-right: 10px;" />
   <img src="icons/typescript.png" alt="TypeScript" width="45" style="margin-right: 10px;" />
-  <img src="icons/react.png" alt="React" width="45" style="margin-right: 10px;" />
+  <img src="icons/react.svg" alt="React" width="45" style="margin-right: 10px;" />
   <img src="icons/nextjs.jpeg" alt="Next.js" width="45" style="margin-right: 10px;" />
   <img src="icons/nodejs.png" alt="Node.js" width="45" style="margin-right: 10px;" />
   <img src="icons/tailwindcss.jpeg" alt="Tailwind CSS" width="45" style="margin-right: 10px;" />
   <img src="icons/mongodb.png" alt="MongoDB" width="45" style="margin-right: 10px;" />
   <img src="icons/postgresql.png" alt="PostgreSQL" width="45" style="margin-right: 10px;" />
-  <img src="icons/supabase.jpeg" alt="Supabase" width="45" style="margin-right: 10px;" />
+  <img src="icons/supabase.svg" alt="Supabase" width="45" style="margin-right: 10px;" />
   <img src="icons/docker.jpeg" alt="Docker" width="45" style="margin-right: 10px;" />
   <img src="icons/figma.png" alt="Figma" width="45" style="margin-right: 10px;" />
   <img src="icons/vscode.jpeg" alt="VS Code" width="45" style="margin-right: 10px;" />
