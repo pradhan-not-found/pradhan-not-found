@@ -53,24 +53,14 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 ### GitHub Stats
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradhan-not-found&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradhan-not-found&langs_count=6&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=pradhan-not-found&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/activity-graph.svg" width="100%" alt="Activity Graph" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradhan-not-found&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="168" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradhan-not-found&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="168" alt="Top Languages" />
+  <br />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=pradhan-not-found&theme=tokyonight&hide_border=true" height="145" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/activity-graph.svg" height="145" alt="Activity Graph" />
 </div>
 
 ### Let's Connect
