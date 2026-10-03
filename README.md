@@ -68,7 +68,7 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
   <img src="https://streak-stats.demolab.com/?user=pradhan-not-found&theme=tokyonight&hide_border=true" height="165" />
 </td>
 <td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pradhan-not-found&theme=tokyonight&utcOffset=5" height="165" />
+  <img src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/activity-graph.svg" height="165" />
 </td>
 </tr>
 </table>

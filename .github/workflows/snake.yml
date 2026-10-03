@@ -25,6 +25,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1.3.3
+        with:
+          username: pradhan-not-found
+          options: 'theme=tokyo-night&hide_border=true&area=true&radius=8'
+          output_path: dist/activity-graph.svg
+          
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
