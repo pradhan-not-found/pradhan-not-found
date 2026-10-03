@@ -53,18 +53,26 @@ I'm a full-stack developer who enjoys turning complex problems into simple, eleg
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradhan-not-found&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradhan-not-found&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pradhan-not-found&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
+<table border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pradhan-not-found&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="165" />
+</td>
+<td>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pradhan-not-found&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165" />
+</td>
+</tr>
+<tr>
+<td>
+  <img src="https://streak-stats.demolab.com/?user=pradhan-not-found&theme=tokyonight&hide_border=true" height="165" />
+</td>
+<td>
+  <img src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/activity-graph.svg" height="165" />
+</td>
+</tr>
+</table>
 
-<br />
-
-<div align="center">
-  <img src="https://github.com/pradhan-not-found/pradhan-not-found/raw/output/activity-graph.svg" width="100%" alt="Activity Graph" />
 </div>
 
 ### Let's Connect
