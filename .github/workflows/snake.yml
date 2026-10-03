@@ -26,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1.3.3
+        uses: maurodesouza/github-readme-activity-graph-action@v1.0.0
         with:
           username: pradhan-not-found
           options: 'theme=tokyo-night&hide_border=true&area=true&radius=8'
